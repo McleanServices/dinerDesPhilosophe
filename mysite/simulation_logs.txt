@@ -1,0 +1,202 @@
+Simulation started.
+Philosopher Socrates is thinking.
+Philosopher Plato is thinking.
+Philosopher Aristotle is thinking.
+Philosopher Kant is thinking.
+Philosopher Descartes is thinking.
+Philosopher Aristotle picks up the left fork.
+Philosopher Aristotle picks up the right fork and starts eating.
+Philosopher Kant picks up the left fork.
+Philosopher Kant picks up the right fork and starts eating.
+Philosopher Plato picks up the left fork.
+Philosopher Aristotle puts down the forks and goes back to thinking.
+Philosopher Descartes picks up the left fork.
+Philosopher Aristotle is thinking.
+Philosopher Plato picks up the right fork and starts eating.
+Philosopher Kant puts down the forks and goes back to thinking.
+Philosopher Socrates picks up the left fork.
+Philosopher Kant is thinking.
+Philosopher Descartes picks up the right fork and starts eating.
+Philosopher Plato puts down the forks and goes back to thinking.
+Philosopher Plato is thinking.
+Philosopher Socrates picks up the right fork and starts eating.
+Philosopher Aristotle picks up the left fork.
+Philosopher Descartes puts down the forks and goes back to thinking.
+Philosopher Descartes is thinking.
+Philosopher Aristotle picks up the right fork and starts eating.
+Philosopher Kant picks up the left fork.
+Philosopher Socrates puts down the forks and goes back to thinking.
+Philosopher Plato picks up the left fork.
+Philosopher Kant picks up the right fork and starts eating.
+Philosopher Socrates is thinking.
+Philosopher Aristotle puts down the forks and goes back to thinking.
+Philosopher Aristotle is thinking.
+Philosopher Descartes picks up the left fork.
+Philosopher Plato picks up the right fork and starts eating.
+Philosopher Kant puts down the forks and goes back to thinking.
+Philosopher Descartes picks up the right fork and starts eating.
+Philosopher Kant is thinking.
+Philosopher Descartes puts down the forks and goes back to thinking.
+Philosopher Kant picks up the left fork.
+Philosopher Descartes is thinking.
+Philosopher Kant picks up the right fork and starts eating.
+Philosopher Plato puts down the forks and goes back to thinking.
+Philosopher Plato is thinking.
+Philosopher Aristotle picks up the left fork.
+Philosopher Aristotle picks up the right fork and starts eating.
+Philosopher Plato picks up the left fork.
+Philosopher Kant puts down the forks and goes back to thinking.
+Philosopher Socrates picks up the left fork.
+Philosopher Kant is thinking.
+Philosopher Aristotle puts down the forks and goes back to thinking.
+Philosopher Descartes picks up the left fork.
+Philosopher Aristotle is thinking.
+Philosopher Plato picks up the right fork and starts eating.
+Philosopher Descartes picks up the right fork and starts eating.
+Philosopher Descartes puts down the forks and goes back to thinking.
+Philosopher Descartes is thinking.
+Philosopher Kant picks up the left fork.
+Philosopher Plato puts down the forks and goes back to thinking.
+Philosopher Aristotle picks up the left fork.
+Philosopher Socrates picks up the right fork and starts eating.
+Philosopher Plato is thinking.
+Philosopher Aristotle picks up the right fork and starts eating.
+Philosopher Socrates puts down the forks and goes back to thinking.
+Philosopher Plato picks up the left fork.
+Philosopher Socrates is thinking.
+Philosopher Kant picks up the right fork and starts eating.
+Philosopher Aristotle puts down the forks and goes back to thinking.
+Philosopher Descartes picks up the left fork.
+Philosopher Aristotle is thinking.
+Philosopher Plato picks up the right fork and starts eating.
+Philosopher Kant puts down the forks and goes back to thinking.
+Philosopher Socrates picks up the left fork.
+Philosopher Kant is thinking.
+Philosopher Descartes picks up the right fork and starts eating.
+Philosopher Plato puts down the forks and goes back to thinking.
+Philosopher Aristotle picks up the left fork.
+Philosopher Plato is thinking.
+Philosopher Socrates picks up the right fork and starts eating.
+Philosopher Descartes puts down the forks and goes back to thinking.
+Philosopher Descartes is thinking.
+Philosopher Aristotle picks up the right fork and starts eating.
+Philosopher Kant picks up the left fork.
+Philosopher Aristotle puts down the forks and goes back to thinking.
+Philosopher Descartes picks up the left fork.
+Philosopher Aristotle is thinking.
+Philosopher Socrates puts down the forks and goes back to thinking.
+Philosopher Plato picks up the left fork.
+Philosopher Socrates is thinking.
+Philosopher Kant picks up the right fork and starts eating.
+Philosopher Plato picks up the right fork and starts eating.
+Philosopher Kant puts down the forks and goes back to thinking.
+Philosopher Kant is thinking.
+Philosopher Descartes picks up the right fork and starts eating.
+Philosopher Socrates picks up the left fork.
+Philosopher Plato puts down the forks and goes back to thinking.
+Philosopher Plato is thinking.
+Philosopher Aristotle picks up the left fork.
+Philosopher Socrates picks up the right fork and starts eating.
+Philosopher Socrates puts down the forks and goes back to thinking.
+Philosopher Socrates is thinking.
+Philosopher Plato picks up the left fork.
+Philosopher Descartes puts down the forks and goes back to thinking.
+Philosopher Kant picks up the left fork.
+Philosopher Descartes is thinking.
+Philosopher Aristotle picks up the right fork and starts eating.
+Philosopher Kant picks up the right fork and starts eating.
+Philosopher Aristotle puts down the forks and goes back to thinking.
+Philosopher Descartes picks up the left fork.
+Philosopher Aristotle is thinking.
+Philosopher Plato picks up the right fork and starts eating.
+Philosopher Kant puts down the forks and goes back to thinking.
+Philosopher Kant is thinking.
+Philosopher Socrates picks up the left fork.
+Philosopher Descartes picks up the right fork and starts eating.
+Philosopher Plato puts down the forks and goes back to thinking.
+Philosopher Plato is thinking.
+Philosopher Aristotle picks up the left fork.
+Philosopher Socrates picks up the right fork and starts eating.
+Philosopher Descartes puts down the forks and goes back to thinking.
+Philosopher Descartes is thinking.
+Philosopher Kant picks up the left fork.
+Philosopher Aristotle picks up the right fork and starts eating.
+Philosopher Socrates puts down the forks and goes back to thinking.
+Philosopher Plato picks up the left fork.
+Philosopher Kant picks up the right fork and starts eating.
+Philosopher Socrates is thinking.
+Philosopher Aristotle puts down the forks and goes back to thinking.
+Philosopher Descartes picks up the left fork.
+Philosopher Plato picks up the right fork and starts eating.
+Philosopher Aristotle is thinking.
+Philosopher Kant puts down the forks and goes back to thinking.
+Philosopher Socrates picks up the left fork.
+Philosopher Descartes picks up the right fork and starts eating.
+Philosopher Plato puts down the forks and goes back to thinking.
+Philosopher Plato is thinking.
+Philosopher Aristotle picks up the left fork.
+Philosopher Kant is thinking.
+Philosopher Socrates picks up the right fork and starts eating.
+Philosopher Socrates puts down the forks and goes back to thinking.
+Philosopher Socrates is thinking.
+Philosopher Plato picks up the left fork.
+Philosopher Descartes puts down the forks and goes back to thinking.
+Philosopher Kant picks up the left fork.
+Philosopher Descartes is thinking.
+Philosopher Aristotle picks up the right fork and starts eating.
+Philosopher Kant picks up the right fork and starts eating.
+Philosopher Aristotle puts down the forks and goes back to thinking.
+Philosopher Descartes picks up the left fork.
+Philosopher Aristotle is thinking.
+Philosopher Plato picks up the right fork and starts eating.
+Philosopher Kant puts down the forks and goes back to thinking.
+Philosopher Socrates picks up the left fork.
+Philosopher Kant is thinking.
+Philosopher Descartes picks up the right fork and starts eating.
+Philosopher Plato puts down the forks and goes back to thinking.
+Philosopher Aristotle picks up the left fork.
+Philosopher Plato is thinking.
+Philosopher Socrates picks up the right fork and starts eating.
+Philosopher Descartes puts down the forks and goes back to thinking.
+Philosopher Descartes is thinking.
+Philosopher Aristotle picks up the right fork and starts eating.
+Philosopher Kant picks up the left fork.
+Philosopher Socrates puts down the forks and goes back to thinking.
+Philosopher Kant picks up the right fork and starts eating.
+Philosopher Socrates is thinking.
+Philosopher Plato picks up the left fork.
+Philosopher Aristotle puts down the forks and goes back to thinking.
+Philosopher Aristotle is thinking.
+Philosopher Descartes picks up the left fork.
+Philosopher Plato picks up the right fork and starts eating.
+Philosopher Kant puts down the forks and goes back to thinking.
+Philosopher Kant is thinking.
+Philosopher Descartes picks up the right fork and starts eating.
+Philosopher Socrates picks up the left fork.
+Philosopher Plato puts down the forks and goes back to thinking.
+Philosopher Aristotle picks up the left fork.
+Philosopher Plato is thinking.
+Philosopher Socrates picks up the right fork and starts eating.
+Philosopher Descartes puts down the forks and goes back to thinking.
+Philosopher Kant picks up the left fork.
+Philosopher Aristotle picks up the right fork and starts eating.
+Philosopher Descartes is thinking.
+Philosopher Socrates puts down the forks and goes back to thinking.
+Philosopher Plato picks up the left fork.
+Philosopher Socrates is thinking.
+Philosopher Kant picks up the right fork and starts eating.
+Philosopher Aristotle puts down the forks and goes back to thinking.
+Philosopher Plato picks up the right fork and starts eating.
+Philosopher Descartes picks up the left fork.
+Philosopher Kant puts down the forks and goes back to thinking.
+Philosopher Socrates picks up the left fork.
+Philosopher Descartes picks up the right fork and starts eating.
+Philosopher Plato puts down the forks and goes back to thinking.
+Philosopher Socrates picks up the right fork and starts eating.
+Philosopher Descartes puts down the forks and goes back to thinking.
+Philosopher Socrates puts down the forks and goes back to thinking.
+Philosopher Socrates is thinking.
+Philosopher Socrates picks up the left fork.
+Philosopher Socrates picks up the right fork and starts eating.
+Philosopher Socrates puts down the forks and goes back to thinking.
+The dinner is over.
