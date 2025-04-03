@@ -14,6 +14,9 @@ techwithtyrece.com/dinerdesphilosophes
 
 # Simulation des Philosophes à Table
 
+![Aperçu de la page d'accueil](mysite/static/images/homepage.jpeg)
+
+
 Cette application web simule le problème classique des philosophes à table, illustrant les concepts de synchronisation et d'évitement des interblocages en programmation concurrente.
 
 ## Accès à l'application
