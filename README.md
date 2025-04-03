@@ -107,7 +107,7 @@ dinerdesphilosophes/
     ├── views.py             # Vues pour l'application
     ├── urls.py              # URLs de l'application
     ├── consumers.py         # Consumers WebSocket
-    ├── polls_simulation.py  # Script principal de simulation
+    ├── simulation.py  # Script principal de simulation
     └── templates/           # Templates HTML
         └── polls/
             └── index.html   # Interface utilisateur principale
