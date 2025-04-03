@@ -1,15 +1,4 @@
-# Simulation des Philosophes à Table
-
-Cette application web simule le problème classique des philosophes à table, illustrant les concepts de synchronisation et d'évitement des interblocages en programmation concurrente.
-
-## Accès à l'application
-
-L'application web sera accessible à l'adresse suivante une fois déployée :
-```
-http://localhost:8000
-```
-
-## 📢 **ATTENTION : TRAVAIL SUPPLÉMENTAIRE !**
+# ⚠️ ATTENTION : TRAVAIL SUPPLÉMENTAIRE !
 
 🔴 **Ceci est un travail supplémentaire que j'ai réalisé pour étendre le projet.**
 
@@ -21,6 +10,17 @@ mysite/polls/simulation.py
 🔴 **Je mettrai bientôt le site à jour sur mon serveur à l'adresse suivante :**
 ```
 techwithtyrece.com/dinerdesphilosophes
+```
+
+# Simulation des Philosophes à Table
+
+Cette application web simule le problème classique des philosophes à table, illustrant les concepts de synchronisation et d'évitement des interblocages en programmation concurrente.
+
+## Accès à l'application
+
+L'application web sera accessible à l'adresse suivante une fois déployée :
+```
+http://localhost:8000
 ```
 
 ## Prérequis
