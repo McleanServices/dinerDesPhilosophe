@@ -1,4 +1,4 @@
-# ⚠️ ATTENTION : TRAVAIL SUPPLÉMENTAIRE !
+ATTENTION : TRAVAIL SUPPLÉMENTAIRE !
 
 🔴 **Ceci est un travail supplémentaire que j'ai réalisé pour étendre le projet.**
 
@@ -7,7 +7,7 @@
 mysite/polls/simulation.py
 ```
 
-🔴 **Je mettrai bientôt le site à jour sur mon serveur à l'adresse suivante :**
+🔴 ** le site est à jour sur mon serveur à l'adresse suivante :**
 ```
 techwithtyrece.com/dinerdesphilosophes
 ```
